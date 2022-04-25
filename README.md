@@ -7,9 +7,7 @@ This CV has been created by editing the project developed by [Olivier Pieters](h
 
 ## Documentation
 
-The class documentation can be found on [CTAN](http://ctan.org/tex-archive/macros/latex/contrib/limecv/limecv.pdf).
-
-Alternatively, the documentation can also be created by running `xelatex limecv.dtx` contained in the src folder.
+The class documentation can be found in the folder doc. In the same folder it is placed a list of all the icons belonging to the FontAwesome.
 
 
 ## Credits
