@@ -1,4 +1,3 @@
-`limecv` is a document class to typeset curriculum vitæ in (Xe/Lua)LaTeX.
 
 This CV has been created by editing the project developed by [Olivier Pieters](https://olivierpieters.be/projects/limecv).
 
