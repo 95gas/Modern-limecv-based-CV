@@ -2,7 +2,7 @@
 ## Example
 This CV has been created by editing the project developed by [Olivier Pieters](https://olivierpieters.be/projects/limecv).
 
-![CV example](https://github.com/95gas/Modern-limecv-based-CV/blob/main/CV_001.png)
+![CV example](https://github.com/95gas/Modern-limecv-based-CV/blob/main/images/CV_001.png)
 
 
 ## Documentation
