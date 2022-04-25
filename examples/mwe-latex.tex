@@ -51,7 +51,7 @@ node (cv@last item \the\value{cv@lastItem}) {};
     \stepcounter{cv@itemNext}
     \cv@definecvItem
 }{%
-%\cv@EndSectionDraw  // draw the line
+\cv@EndSectionDraw  // draw the line
 \stepcounter{cv@lastItem}
 \draw (item \the\value{cv@itemPrev}.south west)
 node (cv@last item \the\value{cv@lastItem}) {};
@@ -65,7 +65,7 @@ node (cv@last item \the\value{cv@lastItem}) {};
     \stepcounter{cv@itemNext}
     \cv@definecvItem
 }{%
-%\cv@EndSectionDraw  // draw the line
+\cv@EndSectionDraw  // draw the line
 \stepcounter{cv@lastItem}
 \draw (item \the\value{cv@itemPrev}.south west)
 node (cv@last item \the\value{cv@lastItem}) {};
@@ -133,7 +133,6 @@ node (cv@last item \the\value{cv@lastItem}) {};
       \cvInterest{\faBicycle}{Sport}
       \cvInterest{\faCamera}{Photography}
       \cvInterest{\faSuitcase}{Travelling}
-      \cvInterestsProfessional
       \cvInterest{\faFilm}{film}
       \cvInterest{\faCamera}{photography}
     \end{cvInterests}
