@@ -2,7 +2,7 @@
 This CV has been created by editing the project developed by [Olivier Pieters](https://olivierpieters.be/projects/limecv).
 
 Example CV:
-![CV example](images/CV0001.png)
+![CV example](CV0001.png)
 
 
 ## Documentation
